@@ -29,3 +29,7 @@ Build
 ```
 npm run build:dev
 ```
+### Remove service
+```
+sc delete nodejs_test_service.exe
+```
